@@ -37,6 +37,7 @@ def get_current_mac(interface):
 
 #main sequence
 options = get_arguments()
+print("test")
 #showing current mac
 print("[!] Current MAC address is: ", get_current_mac(options.interface))
 #changing mac
