@@ -1,4 +1,4 @@
-Simple python script, that can change MAC address in Linux using ifconfig utility. 
+Simple python script, that can change MAC address in Linux using ifconfig utility.
 Example of usage:
 
 sudo python mac_changer.py --interface eth0 --mac ff:45:af:ff:9e:d3
